@@ -1,0 +1,4 @@
+.env
+.playwright-cli/
+.taste-skill/
+__pycache__/
